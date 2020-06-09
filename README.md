@@ -1,4 +1,4 @@
-<h1 align="center"><img width="100%" src="Ecoleta.png" alt="Ecoleta"></h1>
+<h1 align="center"><img width="100%" src="ecoleta.png" alt="Ecoleta"></h1>
 
 ## "ECOLETA"
 <p>Projeto desenvolvido durante a <b> Next Level Week - 01 [ NLW ]</b> oferecida pela <a href="https://rocketseat.com.br/">Rocketseat</a>.
